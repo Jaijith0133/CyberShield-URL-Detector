@@ -162,13 +162,23 @@ HTML = """
 
 <div class="intro">
 
-    <h1>🔐 CyberShield URL Attack Detector</h1>
+    <h1>🛡 CyberShield URL Attack Detector</h1>
 
     <p>
-        Advanced Machine Learning based Cybersecurity System for detecting
-        URL-based attacks such as SQL Injection, XSS, SSRF,
-        Command Injection, Directory Traversal and other malicious
-        HTTP attack patterns using intelligent URL analysis.
+        Welcome to CyberShield — an advanced AI-powered cybersecurity
+        platform designed to identify malicious URL attacks and suspicious
+        HTTP request patterns using Machine Learning and intelligent
+        threat analysis.
+    </p>
+
+    <br>
+
+    <p>
+        This system is capable of detecting:
+        SQL Injection, Cross-Site Scripting (XSS),
+        Server Side Request Forgery (SSRF),
+        Command Injection, Directory Traversal,
+        Credential Stuffing, and other web-based cyber threats.
     </p>
 
 </div>
